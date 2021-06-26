@@ -1,0 +1,10 @@
+   **** How to create and run python file through Command Prompt ***
+
+1) Open Command Prompt by typing cmd in search section.
+2) Then set the environmental variables.
+2) Then type the below command to create python file.
+              py > filename.py 
+3) Then after typing code in it type the below command to run the python file.
+              py filename.py
+
+
